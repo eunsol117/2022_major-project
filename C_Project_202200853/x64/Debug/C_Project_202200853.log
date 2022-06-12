@@ -1,0 +1,15 @@
+﻿  main.cpp
+C:\c\C_Project_202200853\main.cpp(40,13): error C2082: 'c' 정식 매개 변수 재정의
+C:\c\C_Project_202200853\main.cpp(41,13): error C2082: 'd' 정식 매개 변수 재정의
+C:\c\C_Project_202200853\main.cpp(42,13): error C2082: 'a' 정식 매개 변수 재정의
+C:\c\C_Project_202200853\main.cpp(43,13): error C2082: 'b' 정식 매개 변수 재정의
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_malloc.h(17,1): error C2598: 연결 사양은 전역 범위에 있어야 합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stddef.h(18,1): error C2598: 연결 사양은 전역 범위에 있어야 합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\stddef.h(24,5): error C2870: 'std': 네임스페이스 정의는 파일 범위에서 사용하거나 다른 네임스페이스 정의 바로 안쪽에 사용해야 합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_search.h(20,1): error C2598: 연결 사양은 전역 범위에 있어야 합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdlib.h(17,1): error C2598: 연결 사양은 전역 범위에 있어야 합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\corecrt_wstdlib.h(66,1): error C2598: 연결 사양은 전역 범위에 있어야 합니다.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.19041.0\ucrt\errno.h(23,39): fatal error C1903: 이전 오류를 복구할 수 없습니다. 컴파일이 중지됩니다.
+  'C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.31.31103\bin\HostX64\x64\CL.exe'에서 내부 컴파일러 오류
+      자세한 내용을 보려면 Visual C++ [도움말] 메뉴에서
+   [기술 지원] 명령을 선택하거나 기술 지원 도움말 파일을 참조하십시오.
